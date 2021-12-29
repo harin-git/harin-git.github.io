@@ -14,7 +14,7 @@ I’m a PhD candidate at the Max Planck Institute for
 [Marc Schönwiesner](https://imprs-neurocom.mpg.de/marc-schoenwiesner) and a visiting researcher 
 at the [Computational Auditory Perception](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html)
 group led by [Nori Jacoby](https://www.norijacoby.com/).
-I'm interested about the cross-cultural diversity in music and the methods
+My interests are about the cross-cultural diversity in music and the methods
 we can apply to quantify its characteristics. 
 I combine datasets of music around the world with large-scale
 behavioural experiments to tackle questions about inter-individual
