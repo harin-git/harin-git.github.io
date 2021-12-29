@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Harin Lee"
 title_separator          : "-"
 name                     : &name "Harin Lee"
-description              : &description "I’m interested in the cross-cultural diversity in music and the methods we can apply to quantify its characteristics. I combine datasets of music around the world with large-scale behavioural experiments to tackle questions about inter-individual and cross-cultural differences in music cognition."
+description              : &description "Harin Lee personal website"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "harin-git/harin-git.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -75,20 +75,20 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-134761424-1"
 
 
 # Site Author
 author:
   name             : "Harin Lee"
-  avatar           : "profile.png"
-  bio              : ""
+  avatar           : "harin_profile.jpg"
+  bio              :
   location         : "Leipzig, Germany"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=sNyJrSQAAAAJ&hl=en"
-  email            : "hlee(at)cbs(dot)mpg(dot)de"
-  researchgate     : ""
+  googlescholar    : "https://scholar.google.com/citations?user=sNyJrSQAAAAJ&hl"
+  email            : "hlee@cbs.mpg.de"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/harin-git"
+  github           : "harin-git"
   google_plus      :
   keybase          :
   instagram        :
