@@ -8,16 +8,15 @@ author_profile: true
 We tested whether Americans, Brazilians and South Koreans perceive the same or
 different moods in the music that is local or foreign to them. We then compared
 these ratings with current state-of-the-art machine estimates to examine whether
-the algorithms are systematically biased to the US 
+the automatica mood detection algorithms are systematically biased to the US 
 (given most training data are English songs).
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SvYicYEYh3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *_nominated for best student paper_
-
-**video coming soon...**
 
 ## [Talk at ICMPC-ESCOM 2021](https://icmpc2021.sites.sheffield.ac.uk/)
 I presented about the formation of a new database called _globalPOP_, 
-which I extensively gather representative pop music samples around the world along
+which I extensively gathered representative pop music samples around the world along
 with various metadata, machine retrieved features, and lyrics.
 Some preliminary results are also discussed.
 
@@ -26,7 +25,7 @@ Some preliminary results are also discussed.
 *_nominated for best student paper_
 
 ## [Talk at CIM19](https://sites.google.com/view/cim19/home)
-I introduced the Timbre Perception Test (TPT) a new psychoacoustic test for measuring
+I introduced the Timbre Perception Test (TPT), a new psychoacoustic test for measuring
 individual differences in the ability to hear fine-grained variations along
 three dimensions of timbre space. For more details watch the [recorded talk](https://www.youtube.com/watch?v=O8m_uocI_gY),
 read the [paper](https://link.springer.com/article/10.3758/s13414-020-02058-3),
