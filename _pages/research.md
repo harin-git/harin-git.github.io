@@ -11,7 +11,7 @@ these ratings with current state-of-the-art machine estimates to examine whether
 the automatica mood detection algorithms are systematically biased to the US 
 (given most training data are English songs).
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SvYicYEYh3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SvYicYEYh3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *_nominated for best student paper_
 
 ## [Talk at ICMPC-ESCOM 2021](https://icmpc2021.sites.sheffield.ac.uk/)
