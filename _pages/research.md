@@ -4,6 +4,14 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+## [Timbre Perception Test (TPT) included in Long-Gold Project](https://longgold.org/)
+The LongGold project is a longitudinal research study investigating the development of musical abilities across the teenage years. 
+The project aims to understand what role music plays in the development of secondary school students. 
+It documents how musical skills are related to cognitive abilities, attitudes, personality, psycho-social skills, and academic performance. 
+The [Timbre Perception Test (TPT)](https://link.springer.com/article/10.3758/s13414-020-02058-3) is now included as one of
+the test in the test battery of LongGold for measuring individual's ability to discriminate between timbre.
+You can try the demo version of the TPT online [here](https://shiny.gold-msi.org/longgold_demo/?test=TPT).
+
 ## [Paper published in ISMIR 2021](https://zenodo.org/record/5625680#.Yczt3BNKjys)
 We tested whether Americans, Brazilians and South Koreans perceive the same or
 different moods in the music that is local or foreign to them. We then compared
