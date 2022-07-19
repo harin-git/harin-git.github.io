@@ -14,9 +14,12 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
+
+  - title: "Music"
+      url: /music/
     
-  - title: "CV"
-    url: /_pages/cv.pdf
+#  - title: "CV"
+#    url: /_pages/cv.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
