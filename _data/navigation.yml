@@ -6,6 +6,9 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=sNyJrSQAAAAJ&hl
 
+  - title: "Brain Music"
+    url: https://aiar-git.github.io/
+
 #  - title: "Teaching"
 #    url: /teaching/
 #
@@ -15,11 +18,11 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
-  - title: "Music"
-      url: /music/
+#  - title: "Music"
+#      url: /music/
     
-#  - title: "CV"
-#    url: /_pages/cv.pdf
+  - title: "CV"
+    url: /_pages/cv.pdf
     
 #  - title: "Guide"
 #    url: /markdown/

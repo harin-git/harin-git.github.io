@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Music"
+permalink: /music/
 author_profile: true
 ---
 ## [Timbre Perception Test (TPT) included in Long-Gold Project](https://longgold.org/)

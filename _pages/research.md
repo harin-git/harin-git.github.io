@@ -4,6 +4,15 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+## [Without a Song or a Dance What are We?](https://www.youtube.com/watch?v=FrgLLuYOo6c)
+As part of the "A night of Music, Performance & Neuroscience" to end the Brain Awareness week, I presented a talk 
+at the [Hitness club, Leipzig](https://www.hitness.club/). 
+The talk was about the diversity of music around the world, the hidden mathematical 
+beauty that underlies the resonance of tones, 
+and our unique ability as humans to synchronously move with one another (e.g., boogie together) in large scale.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FrgLLuYOo6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## [Timbre Perception Test (TPT) included in Long-Gold Project](https://longgold.org/)
 The LongGold project is a longitudinal research study investigating the development of musical abilities across the teenage years. 
 The project aims to understand what role music plays in the development of secondary school students. 
