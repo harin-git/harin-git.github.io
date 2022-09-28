@@ -4,6 +4,15 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+## [Talk at Cultural Evolution Society 2022](https://conferences.au.dk/ces2022/)
+I gave a talk titled "Studying the evolution of pop music across 55 countries since the 1950s" in Aarhus, Denmark at the 
+bi-yearly conference held by the Cultural Evolution Society. I discuss preliminary findings about acoustic properties and lyrics 
+of pop songs around the world from yet to be released GlobalPOP dataset.
+
+#### Presentation recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tyc8EYlk4Ww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## [Without a Song or a Dance What are We?](https://www.youtube.com/watch?v=FrgLLuYOo6c)
 As part of the "A night of Music, Performance & Neuroscience" to end the Brain Awareness week, I presented a talk 
 at the [Hitness club, Leipzig](https://www.hitness.club/). 
