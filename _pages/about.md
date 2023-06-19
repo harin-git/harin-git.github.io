@@ -30,7 +30,8 @@ In my past life and now occasionally when I have free time (unfortunately not mu
 I make music ([Deezer](https://www.deezer.com/en/album/437597977){:target="_blank"}, 
 [Spotify](https://open.spotify.com/album/2BUL6IneY4Tx9gpRvNwOYM){:target="_blank"}, 
 [Apple](https://music.apple.com/us/album/youth/1683998057){:target="_blank"},
-[Youtube](https://music.youtube.com/playlist?list=OLAK5uy_ln2QAQ-XArGbe4ZiYborPVjY_S7yAsh_U)){:target="_blank"}.
+[Youtube](https://music.youtube.com/playlist?list=OLAK5uy_ln2QAQ-XArGbe4ZiYborPVjY_S7yAsh_U){:target="_blank"}
+).
 
 <br><br>
 <a class="twitter-timeline" data-height="600" data-width="600" href="https://twitter.com/TweetHarin?ref_src=twsrc%5Etfw">Tweets by TweetHarin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
