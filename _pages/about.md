@@ -18,9 +18,13 @@ I combine datasets of music around the world with large-scale
 behavioural experiments to tackle questions about inter-individual
 and cross-cultural differences in music cognition.
 <br><br>
-Recently, a contemporary composer, a neuroscientist and I have founded the [aiar collective](https://aiar-git.github.io/), with the 
-aim to use live brain signals of performers in the context of creative music production. 
-You can checkout on-going and past projects [here](https://aiar-git.github.io/#projects).
+Currently I'm interning as a research scientist at [Deezer Research](https://research.deezer.com/) where I explore 
+the regional differences in musical diversity and spread of musical trends, 
+drawing perspectives on both population and within-user level.
+<br><br>
+I'm also part of an art collective called [aiar collective](https://aiarcollective.com/). Our aim is to 
+use live brain signals of performers in the context of creative music production. 
+You can checkout on-going and past projects [here](https://aiarcollective.com/#projects).
 
 <br><br><br>
 <a class="twitter-timeline" data-height="600" data-width="600" href="https://twitter.com/TweetHarin?ref_src=twsrc%5Etfw">Tweets by TweetHarin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
