@@ -29,7 +29,7 @@ You can checkout on-going and past projects [here](https://aiarcollective.com/#p
 In my past life and now occasionally when I have free time (unfortunately not much as a PhD student), 
 I make music ([Deezer](https://www.deezer.com/en/album/437597977), 
 [Spotify](https://open.spotify.com/album/2BUL6IneY4Tx9gpRvNwOYM), 
-[Apple](https://music.apple.com/us/album/youth/1683998057)),
+[Apple](https://music.apple.com/us/album/youth/1683998057),
 [Youtube](https://music.youtube.com/playlist?list=OLAK5uy_ln2QAQ-XArGbe4ZiYborPVjY_S7yAsh_U)).
 
 <br><br>
