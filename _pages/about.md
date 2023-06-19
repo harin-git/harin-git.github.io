@@ -25,12 +25,12 @@ drawing perspectives on both population and within-user level.
 I'm also part of an art collective called [aiar collective](https://aiarcollective.com/). Our aim is to 
 use live brain signals of performers in the context of creative music production. 
 You can checkout on-going and past projects [here](https://aiarcollective.com/#projects).
-<br><hr>
+<br><br>
 In my past life and now occasionally when I have free time (unfortunately not much as a PhD student), 
 I make music ([Deezer](https://www.deezer.com/en/album/437597977), 
 [Spotify](https://open.spotify.com/album/2BUL6IneY4Tx9gpRvNwOYM), 
 [Apple](https://music.apple.com/us/album/youth/1683998057)),
-[Youtube](https://music.youtube.com/playlist?list=OLAK5uy_ln2QAQ-XArGbe4ZiYborPVjY_S7yAsh_U).
+[Youtube](https://music.youtube.com/playlist?list=OLAK5uy_ln2QAQ-XArGbe4ZiYborPVjY_S7yAsh_U)).
 
-<br><br><br>
+<br><br>
 <a class="twitter-timeline" data-height="600" data-width="600" href="https://twitter.com/TweetHarin?ref_src=twsrc%5Etfw">Tweets by TweetHarin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
