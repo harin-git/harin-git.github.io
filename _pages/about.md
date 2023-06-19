@@ -26,7 +26,7 @@ I'm also part of an art collective called [aiar collective](https://aiarcollecti
 use live brain signals of performers in the context of creative music production. 
 You can checkout on-going and past projects [here](https://aiarcollective.com/#projects).
 <br><br>
-In my past self and now occasionally when I have free time (unfortunately not much as a PhD student), 
+In my past life and now occasionally when I have free time (unfortunately not much as a PhD student), 
 I make music ([Deezer](https://www.deezer.com/en/album/437597977), 
 [Spotify](https://open.spotify.com/album/2BUL6IneY4Tx9gpRvNwOYM), 
 [Apple](https://music.apple.com/us/album/youth/1683998057)),
