@@ -22,7 +22,7 @@ Currently I'm interning as a research scientist at [Deezer Research](https://res
 the regional differences in musical diversity and spread of musical trends, 
 drawing perspectives on both population and within-user level.
 <br><br>
-I'm also part of an art collective called [aiar collective](https://aiarcollective.com/). Our aim is to 
+I'm also part of an art collective called [aiar](https://aiarcollective.com/). Our aim is to 
 use live brain signals of performers in the context of creative music production. 
 You can checkout on-going and past projects [here](https://aiarcollective.com/#projects).
 <br><br>
